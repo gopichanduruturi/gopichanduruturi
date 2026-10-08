@@ -1,62 +1,61 @@
+<h1 align="center">Hi 👋, I'm Gopichand</h1>
 
-<!-- Header Banner / Title -->
-<h1 align="center">Hi 👋, I'm Gopichand Uruturi</h1>
-<h3 align="center">Aspiring AI Application Developer | SAP ABAP Developer</h3>
+<h3 align="center">CSE Student | Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vcenter=true&width=500&lines=Passionate+about+scalable+software;SAP+ABAP%2C+RAP+%26+Clean+Core;Python+%26+Full-Stack+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;CSE+Student;Aspiring+Software+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 **Education:** B.Tech Student in Computer Science & Engineering
-- 💻 **Current Focus:** Learning **SAP ABAP, RAP & Clean Core**
-- 🛠️ **Core Skills:** Python, C, Web Development
-- 🤖 **Interests:** AI & Enterprise Application Development, Full-Stack Web Dev
-- 🎯 **Goal:** Building impactful software solutions and growing as a professional developer
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering Student
+- 💻 Interested in Software Development
+- 🚀 Learning new technologies
+- 🔥 Building projects and improving my skills
+- 📚 Always curious to learn something new
 
 ---
 
-### 🛠 Tech Stack & Skills
-
-**Languages & Backend**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![SAP ABAP](https://img.shields.io/badge/SAP_ABAP-0FA1A8?style=for-the-badge&logo=sap&logoColor=white)
-
-**Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Core Concepts**  
-`Data Structures` • `DBMS` • `Clean Core Programming` • `RAP`
-
----
-
-### 📂 Featured Projects
-- 🌐 **Job Portal** - A platform for job seekers and recruiters.
-- 🎙️ **Voice-Based Calculator** - Interactive audio-driven utility tool.
-- 💼 **SAP ABAP / RAP Projects** - Modern Enterprise Solutions built on SAP RAP.
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopichanduruturi&show_icons=true&theme=tokyonight" alt="Gopichand's GitHub Stats" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=gopichanduruturi&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/gopichand-uruturi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+## 🚀 Projects
+
+### 🔹 Project 1
+My first project description.
+
+### 🔹 Project 2
+My second project description.
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
 </p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
